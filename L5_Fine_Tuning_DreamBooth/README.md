@@ -1,0 +1,1 @@
+There're bugs for SDXL model
